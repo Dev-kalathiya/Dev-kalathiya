@@ -78,13 +78,13 @@ I’m a **Fullstack Developer** passionate about building futuristic, scalable, 
 
 ## 🌟 Featured Projects  
 
-### 🚀 [Real-Time Messenger](#)  
+### 🚀 [DAMAS](#)  
 **Tech Used:** React, Node.js, MongoDB  
 - A fully functional real-time messaging application with a sleek UI and reliable backend.  
 
-### 🚀 [Personal Portfolio](#)  
-**Tech Used:** Next.js, TailwindCSS  
-- A blazing-fast, responsive portfolio to showcase my projects and achievements.  
+### 🚀 [PERSONAL FINANCIAL TRACKER](https://dev-kalathiya.github.io/java-script/unique-js%20final%20project/index.html)  
+**Tech Used:** Next.js,react.js, Javascript, TailwindCSS  
+- It allows users to track income and expenses, displaying a clear summary of their financial activity..  
 
 ---
 
