@@ -78,10 +78,9 @@ I’m a **Fullstack Developer** passionate about building futuristic, scalable, 
 
 ## 🌟 Featured Projects  
 
-### 🚀 [DAMAS](#)  
+### 🚀 [DAMAS](https://damas-83v.pages.dev/login)  
 **Tech Used:** React, Node.js, MongoDB  
-- A fully functional real-time messaging application with a sleek UI and reliable backend.  
-
+- A fully functional e-commerce with dynamic listing. 
 ### 🚀 [PERSONAL FINANCIAL TRACKER](https://dev-kalathiya.github.io/java-script/unique-js%20final%20project/index.html)  
 **Tech Used:** Next.js,react.js, Javascript, TailwindCSS  
 - It allows users to track income and expenses, displaying a clear summary of their financial activity..  
