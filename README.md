@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#B4F8C8;">Fullstack Developer | Problem Solver | Innovator</h3>  
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" width="600" height="300" style="border-radius:20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" width="800" height="300" style="border-radius:20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);">
 </p>  
 
 ---
